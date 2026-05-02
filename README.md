@@ -1,6 +1,6 @@
 # Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models
 
-This repository contains the experimental code and reproducibility artifacts for the paper "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models".
+This repository contains the experimental code and reproducibility artifacts for the paper [Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models](https://openreview.net/forum?id=0ogq232VGP).
   
 ## Overview
 
